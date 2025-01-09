@@ -71,3 +71,6 @@ only to a particular domain.
 - Prepare and submit a well-organized report that includes your Splunk Cloud
 dashboard and alert configurations along with a comprehensive summary of all
 tasks completed.
+
+ <h2>Link to Log</h2>
+[OpenSSH Log(https://drive.google.com/file/d/1mkemQ-rYBqVNpU5psdA5fTfVzrNCH23G/view?usp=drivesdk)]
